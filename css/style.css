@@ -1,5 +1,6 @@
 #wrap {
-  width: 60%;
+  width: 50%;
+  height: 550px;
   margin: 0 auto;
   text-align: center;
   background-color: lightyellow;
@@ -7,7 +8,7 @@
 }
 
 #space {
-  padding: 10rem 13rem 10rem 13rem;
+  padding: 3rem 9rem 6rem 9rem;
 }
 
 h2 {
@@ -18,11 +19,11 @@ h2 {
 #bee {
   height: 160px;
   width: 160px;
-  border: 1px solid;
+  //border: 1px solid;
   border-radius: 50%;
   margin: 0 auto;
-  margin-top: 60px;
-  margin-bottom: 60px;
+  margin-top: 40px;
+  margin-bottom: 30px;
   background-size: contain;
   background-repeat:   no-repeat;
   background-position: center center;
@@ -30,8 +31,7 @@ h2 {
 }
 
 button {
-  height: 30px;
-  width: 30px;
+
   border: 1px solid;
   border-radius: 50%;
   background: none;
